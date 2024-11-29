@@ -1,5 +1,6 @@
 ll
 ll -d
+ll -la
 cd downloads/
 ll
 ssh -i "mumbai-webserver.pem" ec2-user@ec2-13-127-247-214.ap-south-1.compute.amazonaws.com
